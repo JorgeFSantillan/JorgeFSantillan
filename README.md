@@ -3,15 +3,17 @@
 <p>Web Developer focused on building structured, business-oriented websites, with hands-on experience in modern web tools, technical setup, and digital asset development. I work across website structure, systems configuration, and marketing-driven design to create clear, functional, and user-focused solutions. </p>
 
 <h2> Core Fundamentals:</h2>
-
-- <b>Front-End & Website Development (HTML, CSS, Web Platforms)</b>
-
-- <b>Technical Systems & Infrastructure (Domain Configuration, DNS, Email Setup)</b>
+<ul>
+<li><b>Front-End & Website Development (HTML, CSS, Web Platforms)</b></li>
  
-- <b>SEO & Analytics</b>
- 
-- <b>Branding & Digital Assets (Visuals, Content, Layout)</b>
+[View Case Study Project](https://github.com/JorgeFSantillan/Front-End-Website-Development---Structured-UI-Implementation)
 
+<li><b>Technical Systems & Infrastructure (Domain Configuration, DNS, Email Setup)</b></li>
+ 
+<li><b>SEO & Analytics</b></li>
+ 
+<li><b>Branding & Digital Assets (Visuals, Content, Layout)</b></li>
+</ul>
 ## Tech Stack / Skills
 
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
