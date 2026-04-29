@@ -3,6 +3,9 @@
 <p>Web Developer focused on building structured, business-oriented websites, with hands-on experience in modern web tools, technical setup, and digital asset development. I work across website structure, systems configuration, and marketing-driven design to create clear, functional, and user-focused solutions. </p>
 
 <h2> Core Fundamentals:</h2>
+
+> Based on real-world client projects
+
 <ul>
 <li><b>Front-End & Website Development (HTML, CSS, Web Platforms)</b></li>
  
@@ -14,7 +17,8 @@
  
 <li><b>Branding & Digital Assets (Visuals, Content, Layout)</b></li>
 </ul>
-## Tech Stack / Skills
+
+<h2>Tech Stack / Skills</h2>
 
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css&logoColor=white)
