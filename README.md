@@ -9,9 +9,11 @@
 <ul>
 <li><b>Front-End & Website Development (HTML, CSS, Web Platforms)</b></li>
  
-[View Case Study Project](https://github.com/JorgeFSantillan/Front-End-Website-Development---Structured-UI-Implementation)
+[View Case Study Project ](https://github.com/JorgeFSantillan/Front-End-Website-Development---Structured-UI-Implementation)
 
 <li><b>Technical Systems & Infrastructure (Domain Configuration, DNS, Email Setup)</b></li>
+
+[View Case Study Project ](https://github.com/JorgeFSantillan/Technical-Systems-Infrastructure)
  
 <li><b>SEO & Analytics</b></li>
  
