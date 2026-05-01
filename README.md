@@ -16,8 +16,9 @@
 [View Case Study Project ](https://github.com/JorgeFSantillan/Technical-Systems-Infrastructure)
  
 <li><b>SEO & Analytics</b></li>
+
+[View Case Study Project ](https://github.com/JorgeFSantillan/SEO-Analytics-Setup)
  
-<li><b>Branding & Digital Assets (Visuals, Content, Layout)</b></li>
 </ul>
 
 <h2>Tech Stack / Skills</h2>
