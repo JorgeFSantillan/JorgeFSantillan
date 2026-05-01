@@ -35,7 +35,7 @@
 ![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white)
 ![Inkscape](https://img.shields.io/badge/Inkscape-000000?style=for-the-badge&logo=inkscape&logoColor=white)
 
-<h2>Currently Learning</h2>
+<h2>Currently Learning 📚</h2>
 
 - Meta Front-End Developer Professional Certificate  
 - (Advanced) HTML, CSS, and JavaScript   
