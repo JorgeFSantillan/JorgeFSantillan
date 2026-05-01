@@ -4,7 +4,7 @@
 
 <h2> Core Fundamentals:</h2>
 
-> Based on real-world client projects
+> Based on my real-world client projects
 
 <ul>
 <li><b>Front-End & Website Development (HTML, CSS, Web Platforms)</b></li>
