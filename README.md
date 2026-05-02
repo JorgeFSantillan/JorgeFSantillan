@@ -1,23 +1,23 @@
 <h1><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40" /> Hello, I'm Jorge! </h1> <br/>
 
-<p>Web Developer focused on building structured, business-oriented websites, with hands-on experience in modern web tools, technical setup, and digital asset development. I work across website structure, systems configuration, and marketing-driven design to create clear, functional, and user-focused solutions. </p>
+<p>Web Developer focused on building structured, business-oriented websites, with hands-on experience in modern web tools, technical setup, and digital asset development. Works across website structure, systems configuration, and marketing-driven design to create clear, functional, and user-focused solutions.</p>
 
-<h2> Core Fundamentals:</h2>
+<h2>Core Fundamentals:</h2>
 
-> Based on my real-world client projects
+> Based on real-world client projects
 
 <ul>
 <li><b>Front-End & Website Development (HTML, CSS, Web Platforms)</b></li>
  
-[View Case Study Project ](https://github.com/JorgeFSantillan/Front-End-Website-Development---Structured-UI-Implementation)
+[View Case Study Project](https://github.com/JorgeFSantillan/Front-End-Website-Development---Structured-UI-Implementation)
 
 <li><b>Technical Systems & Infrastructure (Domain Configuration, DNS, Email Setup)</b></li>
 
-[View Case Study Project ](https://github.com/JorgeFSantillan/Technical-Systems-Infrastructure)
+[View Case Study Project](https://github.com/JorgeFSantillan/Technical-Systems-Infrastructure)
  
 <li><b>SEO & Analytics</b></li>
 
-[View Case Study Project ](https://github.com/JorgeFSantillan/SEO-Analytics-Setup)
+[View Case Study Project](https://github.com/JorgeFSantillan/SEO-Analytics-Setup)
  
 </ul>
 
@@ -38,5 +38,5 @@
 <h2>Currently Learning 📚</h2>
 
 - Meta Front-End Developer Professional Certificate  
-- (Advanced) HTML, CSS, and JavaScript   
-- React and modern front-end workflows     
+- Advanced HTML, CSS, and JavaScript  
+- React and modern front-end workflows
