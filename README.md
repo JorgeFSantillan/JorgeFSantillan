@@ -44,3 +44,8 @@
 - Meta Front-End Developer Professional Certificate  
 - Advanced HTML, CSS, and JavaScript  
 - React and modern front-end workflows
+
+<h2>Certifications</h2>
+
+- [HubSpot SEO Certification](SEO.png)
+- [Google Analytics (GA4) Certification](GA4.png)
