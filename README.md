@@ -21,7 +21,7 @@
 
 <li><b>Performance Optimization</b></li>
 
-[View Case Study Project](https://github.com/JorgeFSantillan/SEO-Analytics-Setup)
+[View Case Study Project](https://github.com/JorgeFSantillan/Performance-Optimization)
  
 </ul>
 
