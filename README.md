@@ -40,9 +40,9 @@
 
 <h2>Currently Learning 📚</h2>
 
-- Meta Front-End Developer Professional Certificate  
-- Advanced HTML, CSS, and JavaScript  
-- React and modern front-end workflows
+- Meta Front-End Developer Professional Certificate - In Progress  
+- Advanced HTML, CSS, and JavaScript - In Progress 
+- React and modern front-end workflows - In Progress
 
 <h2>Certifications</h2>
 
