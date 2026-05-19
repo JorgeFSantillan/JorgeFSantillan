@@ -1,6 +1,6 @@
 <h1><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40" /> Hello, I'm Jorge! </h1> <br/>
 
-<p>Web Developer focused on building structured, business-oriented websites, with hands-on experience in modern web tools, technical setup, and digital asset development. Works across website structure, systems configuration, and marketing-driven design to create clear, functional, and user-focused solutions.</p>
+<p>Web Developer and Graphic Designer focused on creating structured websites, visual identities, and business-oriented digital materials. Works across website development, technical setup, branding, and marketing-driven design to build clear, functional, and user-focused solutions.</p>
 
 <h2>Core Fundamentals:</h2>
 
